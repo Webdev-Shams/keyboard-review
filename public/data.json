@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Shamshu",
+        "id": 1,
+        "review": "Comfortable to use.",
+        "ratings": 4.6,
+        "investment": 100000,
+        "revenue": 10401
+    },
+    {
+        "name": "Asifullah",
+        "id": 2,
+        "review": "Like the click sound.",
+        "ratings": 4.7,
+        "investment": 200000,
+        "revenue": 24500
+    },
+    {
+        "name": "Sayma",
+        "id": 3,
+        "review": "Awesome RGB effect.",
+        "ratings": 4.2,
+        "investment": 500000,
+        "revenue": 67010
+    },
+    {
+        "name": "Gafur",
+        "id": 4,
+        "review": "Can't stop clicking.",
+        "ratings": 4.0,
+        "investment": 500000,
+        "revenue": 40405
+    },
+    {
+        "name": "Rezaul",
+        "id": 5,
+        "review": "Perfect keyboard for gamers.",
+        "ratings": 4.5,
+        "investment": 700000,
+        "revenue": 50900
+    },
+    {
+        "name": "Saif",
+        "id": 6,
+        "review": "Love it!",
+        "ratings": 4.6,
+        "investment": 600000,
+        "revenue": 61000
+    }
+]
