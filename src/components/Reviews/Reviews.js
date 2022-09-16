@@ -7,10 +7,7 @@ const Reviews = () => {
 
     return (
         <div>
-            <div>
-                <h1>Reviews</h1>
-            </div>
-
+             <h1>Reviews</h1>
             <div>
                 {
                     reviews.map(review =>

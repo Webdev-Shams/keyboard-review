@@ -5,6 +5,15 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    letterSpacing: {
+      tightest: '-.075em',
+      tighter: '-.05em',
+      tight: '-.025em',
+      normal: '0',
+      wide: '.025em',
+      wider: '.09em',
+      widest: '.3em',
+    },
   },
   plugins: [],
 }
