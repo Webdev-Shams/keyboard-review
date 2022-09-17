@@ -1,0 +1,13 @@
+.notFoundContainer{
+    height: 600px;
+}
+
+.notFoundTxt{
+    font-size: 80px;
+}
+
+.notFoundTxt span{
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: underline;
+}
