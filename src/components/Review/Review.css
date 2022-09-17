@@ -1,0 +1,28 @@
+.reviewContainer{
+    margin-bottom: 50px;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
+.profileImg{
+    max-width: 250px;
+    border: none;
+    border-radius: 50%;
+}
+
+.reviewTxt{
+    font-style: italic;
+    font-size: 21px;    
+}
+
+.ratingsTxt{
+    font-size: 20px;
+}
+
+.ratingsTxt span{
+    color: #61dafb;
+}
+
+.nameTxt{
+    font-size: 18px;
+    font-weight: 300;
+}

@@ -1,0 +1,20 @@
+.keyBoard{
+    color: #61dafb;
+}
+
+.seeMoreBtn{
+    color: #61dafb;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: .1rem;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    border-left: 3px solid #61dafb;
+    border-bottom: 3px solid #61dafb;
+    transition: border-top .2s ease-in-out .2s,;
+}
+
+.seeMoreBtn:hover{
+    border-top: 3px solid #61dafb;
+    border-right: 3px solid #61dafb;
+}
